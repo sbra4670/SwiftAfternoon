@@ -2,4 +2,8 @@
 
 import UIKit
 
-var str = "Hello, playground"
+var myName :String = "Sebastian"
+var Answer :String
+print (myName)
+
+
